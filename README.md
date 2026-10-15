@@ -1,4 +1,4 @@
-# Olive & Thyme Restaurant Management System
+<img width="960" height="482" alt="image" src="https://github.com/user-attachments/assets/bdd1c5c7-2442-4e4d-a400-c7ad6cb8ecd1" /># Olive & Thyme Restaurant Management System
 
 A full-stack restaurant portfolio project built with React, Vite, Bootstrap 5, PHP 8+, and MySQL. Guests can browse a sample menu and submit table requests; restaurant staff can review, update, and delete reservation records in the admin dashboard.
 
@@ -13,7 +13,9 @@ A full-stack restaurant portfolio project built with React, Vite, Bootstrap 5, P
 
 - ##Reviews
 
-  ![Uploading image.png…]()
+
+<img width="960" height="482" alt="image" src="https://github.com/user-attachments/assets/4be3eddb-8ee8-48a6-88ab-ace06fe7d97a" />
+
 
 -<img width="1920" height="998" alt="image" src="https://github.com/user-attachments/assets/c4337d28-a2e9-475d-b893-8d588172248e" />
 
